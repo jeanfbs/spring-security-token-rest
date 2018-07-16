@@ -1,0 +1,4 @@
+rootProject.name = 'spring-security-token-rest'
+include 'api-rest'
+include 'security'
+
